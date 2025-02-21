@@ -1,0 +1,1334 @@
+[
+  {
+    "name": "Jalsa",
+    "online_order": "Yes",
+    "book_table": "Yes",
+    "rate": "4.1/5",
+    "votes": 775,
+    "approx_cost(for two people)": 800,
+    "listed_in(type)": "Buffet"
+  },
+  {
+    "name": "Spice Elephant",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.1/5",
+    "votes": 787,
+    "approx_cost(for two people)": 800,
+    "listed_in(type)": "Buffet"
+  },
+  {
+    "name": "San Churro Cafe",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 918,
+    "approx_cost(for two people)": 800,
+    "listed_in(type)": "Buffet"
+  },
+  {
+    "name": "Addhuri Udupi Bhojana",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 88,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Buffet"
+  },
+  {
+    "name": "Grand Village",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 166,
+    "approx_cost(for two people)": 600,
+    "listed_in(type)": "Buffet"
+  },
+  {
+    "name": "Timepass Dinner",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 286,
+    "approx_cost(for two people)": 600,
+    "listed_in(type)": "Buffet"
+  },
+  {
+    "name": "Rosewood International Hotel - Bar & Restaurant",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.6/5",
+    "votes": 8,
+    "approx_cost(for two people)": 800,
+    "listed_in(type)": "Buffet"
+  },
+  {
+    "name": "Onesta",
+    "online_order": "Yes",
+    "book_table": "Yes",
+    "rate": "4.6/5",
+    "votes": 2556,
+    "approx_cost(for two people)": 600,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Penthouse Cafe",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.0/5",
+    "votes": 324,
+    "approx_cost(for two people)": 700,
+    "listed_in(type)": "other"
+  },
+  {
+    "name": "Smacznego",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.2/5",
+    "votes": 504,
+    "approx_cost(for two people)": 550,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Village Café",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.1/5",
+    "votes": 402,
+    "approx_cost(for two people)": 500,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Cafe Shuffle",
+    "online_order": "Yes",
+    "book_table": "Yes",
+    "rate": "4.2/5",
+    "votes": 150,
+    "approx_cost(for two people)": 600,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "The Coffee Shack",
+    "online_order": "Yes",
+    "book_table": "Yes",
+    "rate": "4.2/5",
+    "votes": 164,
+    "approx_cost(for two people)": 500,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Caf-Eleven",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "4.0/5",
+    "votes": 424,
+    "approx_cost(for two people)": 450,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "San Churro Cafe",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 918,
+    "approx_cost(for two people)": 800,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Cafe Vivacity",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 90,
+    "approx_cost(for two people)": 650,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Catch-up-ino",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.9/5",
+    "votes": 133,
+    "approx_cost(for two people)": 800,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Kirthi's Biryani",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 144,
+    "approx_cost(for two people)": 700,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "T3H Cafe",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.9/5",
+    "votes": 93,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "360 Atoms Restaurant And Cafe",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.1/5",
+    "votes": 13,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "The Vintage Cafe",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.0/5",
+    "votes": 62,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Woodee Pizza",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 180,
+    "approx_cost(for two people)": 500,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Cafe Coffee Day",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.6/5",
+    "votes": 28,
+    "approx_cost(for two people)": 900,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "My Tea House",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.6/5",
+    "votes": 62,
+    "approx_cost(for two people)": 600,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Hide Out Cafe",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 31,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "CAFE NOVA",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.2/5",
+    "votes": 11,
+    "approx_cost(for two people)": 600,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Coffee Tindi",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 75,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Sea Green Cafe",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.3/5",
+    "votes": 4,
+    "approx_cost(for two people)": 500,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Cuppa",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.3/5",
+    "votes": 23,
+    "approx_cost(for two people)": 550,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Srinathji's Cafe",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 148,
+    "approx_cost(for two people)": 550,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Redberrys",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.0/5",
+    "votes": 219,
+    "approx_cost(for two people)": 600,
+    "listed_in(type)": "Cafes"
+  },
+  {
+    "name": "Foodiction",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "2.8/5",
+    "votes": 506,
+    "approx_cost(for two people)": 500,
+    "listed_in(type)": "other"
+  },
+  {
+    "name": "Sweet Truth",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.9/5",
+    "votes": 35,
+    "approx_cost(for two people)": 500,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Ovenstory Pizza",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.9/5",
+    "votes": 172,
+    "approx_cost(for two people)": 750,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Faasos",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.2/5",
+    "votes": 415,
+    "approx_cost(for two people)": 500,
+    "listed_in(type)": "other"
+  },
+  {
+    "name": "Behrouz Biryani",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.9/5",
+    "votes": 230,
+    "approx_cost(for two people)": 650,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Fast And Fresh",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "2.8/5",
+    "votes": 91,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Szechuan Dragon",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.2/5",
+    "votes": 1647,
+    "approx_cost(for two people)": 600,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Empire Restaurant",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.4/5",
+    "votes": 4884,
+    "approx_cost(for two people)": 750,
+    "listed_in(type)": "other"
+  },
+  {
+    "name": "Maruthi Davangere Benne Dosa",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.0/5",
+    "votes": 17,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Chaatimes",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 133,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Havyaka Mess",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.9/5",
+    "votes": 28,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "McDonald's",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.9/5",
+    "votes": 286,
+    "approx_cost(for two people)": 500,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Domino's Pizza",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.9/5",
+    "votes": 540,
+    "approx_cost(for two people)": 800,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Onesta",
+    "online_order": "Yes",
+    "book_table": "Yes",
+    "rate": "4.6/5",
+    "votes": 2556,
+    "approx_cost(for two people)": 600,
+    "listed_in(type)": "other"
+  },
+  {
+    "name": "Hotboxit",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 36,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Kitchen Garden",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.6/5",
+    "votes": 244,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Recipe",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.0/5",
+    "votes": 804,
+    "approx_cost(for two people)": 450,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Beijing Bites",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 679,
+    "approx_cost(for two people)": 850,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Tasty Bytes",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.1/5",
+    "votes": 245,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Petoo",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 21,
+    "approx_cost(for two people)": 450,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Shree Cool Point",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.1/5",
+    "votes": 28,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Corner House Ice Cream",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "4.3/5",
+    "votes": 345,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Biryanis And More",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.0/5",
+    "votes": 618,
+    "approx_cost(for two people)": 750,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Roving Feast",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "4.0/5",
+    "votes": 1047,
+    "approx_cost(for two people)": 450,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "FreshMenu",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.9/5",
+    "votes": 627,
+    "approx_cost(for two people)": 450,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Banashankari Donne Biriyani",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 104,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Wamama",
+    "online_order": "Yes",
+    "book_table": "Yes",
+    "rate": "4.2/5",
+    "votes": 354,
+    "approx_cost(for two people)": 800,
+    "listed_in(type)": "other"
+  },
+  {
+    "name": "Five Star Chicken",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.6/5",
+    "votes": 55,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "XO Belgian Waffle",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 17,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Peppy Peppers",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "4.2/5",
+    "votes": 244,
+    "approx_cost(for two people)": 800,
+    "listed_in(type)": "other"
+  },
+  {
+    "name": "Goa 0 Km",
+    "online_order": "Yes",
+    "book_table": "Yes",
+    "rate": "3.6/5",
+    "votes": 163,
+    "approx_cost(for two people)": 800,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Chinese Kitchen",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 58,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Jeet Restaurant",
+    "online_order": "No",
+    "book_table": "Yes",
+    "rate": "4.0/5",
+    "votes": 808,
+    "approx_cost(for two people)": 850,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Cake of the Day",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 78,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Kabab Magic",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.1/5",
+    "votes": 1720,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Namma Brahmin's Idli",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.6/5",
+    "votes": 34,
+    "approx_cost(for two people)": 100,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Gustoes Beer House",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "4.1/5",
+    "votes": 868,
+    "approx_cost(for two people)": 700,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Sugar Rush",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 39,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Burger King",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.2/5",
+    "votes": 71,
+    "approx_cost(for two people)": 600,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "The Good Bowl",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.6/5",
+    "votes": 6,
+    "approx_cost(for two people)": 500,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "The Biryani Cafe",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "4.1/5",
+    "votes": 520,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Spicy Tandoor",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "4.1/5",
+    "votes": 0,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "LSD Cafe",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "2.9/5",
+    "votes": 84,
+    "approx_cost(for two people)": 700,
+    "listed_in(type)": "other"
+  },
+  {
+    "name": "Rolls On Wheels",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.6/5",
+    "votes": 299,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Om Sri Vinayaka Chats",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.6/5",
+    "votes": 0,
+    "approx_cost(for two people)": 500,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Sri Guru Kottureshwara Davangere Benne Dosa",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.1/5",
+    "votes": 558,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Devanna Dum Biriyani Centre",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.6/5",
+    "votes": 28,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Kolbeh",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 22,
+    "approx_cost(for two people)": 500,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Upahar Sagar",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 39,
+    "approx_cost(for two people)": 350,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Kadalu Sea Food Restaurant",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 153,
+    "approx_cost(for two people)": 500,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Frozen Bottle",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.2/5",
+    "votes": 146,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Parimala Sweets",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.5/5",
+    "votes": 14,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Vaishali Deluxe",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 42,
+    "approx_cost(for two people)": 700,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Chill Out",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 0,
+    "approx_cost(for two people)": 100,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "The Big O Bakes",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "4.0/5",
+    "votes": 66,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Meghana Foods",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.4/5",
+    "votes": 4401,
+    "approx_cost(for two people)": 600,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Krishna Sagar",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.5/5",
+    "votes": 31,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Dessert Rose",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.5/5",
+    "votes": 7,
+    "approx_cost(for two people)": 500,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Chickpet Donne Biryani House",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 21,
+    "approx_cost(for two people)": 250,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Me And My Cake",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 0,
+    "approx_cost(for two people)": 500,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Sunsadm",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 0,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Annapooraneshwari Mess",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 0,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Thanco's Natural Ice Creams",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.2/5",
+    "votes": 9,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Nandhini Deluxe",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "2.6/5",
+    "votes": 283,
+    "approx_cost(for two people)": 600,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Vi Ra's Bar and Restaurant",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.3/5",
+    "votes": 62,
+    "approx_cost(for two people)": 800,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Kaggis",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 64,
+    "approx_cost(for two people)": 250,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Ayda Persian Kitchen",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 39,
+    "approx_cost(for two people)": 950,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Chatar Patar",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 65,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Polar Bear",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.8/5",
+    "votes": 71,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Kidambi's Kitchen",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.5/5",
+    "votes": 52,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Mane Thindi",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.7/5",
+    "votes": 130,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Kotian Karavali Restaurant",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.5/5",
+    "votes": 10,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Floured-Baked With Love",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.8 /5",
+    "votes": 45,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "CAFE NOVA",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.2/5",
+    "votes": 11,
+    "approx_cost(for two people)": 600,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Cakes & Slices",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.5/5",
+    "votes": 13,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Spice 9",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.4/5",
+    "votes": 8,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Coffee Shopee",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.4/5",
+    "votes": 0,
+    "approx_cost(for two people)": 250,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Naveen Kabab & Biriyani Mane",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.2/5",
+    "votes": 9,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Katriguppe Donne Biryani",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.2/5",
+    "votes": 4,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Hari Super Sandwich",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.2/5",
+    "votes": 0,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Atithi Point Ande Ka Funda",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.1/5",
+    "votes": 29,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Just Bake",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.4/5",
+    "votes": 8,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Dharwad Line Bazaar Mishra Pedha",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.4/5",
+    "votes": 0,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Cake Bite",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.4/5",
+    "votes": 0,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Aarush's Food Plaza",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.4/5",
+    "votes": 0,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Wood Stove",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.4/5",
+    "votes": 0,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Kulfi & More",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.4/5",
+    "votes": 0,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Kannadigas Karavali",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.4/5",
+    "votes": 0,
+    "approx_cost(for two people)": 250,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "K27 - The Pub",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.1/5",
+    "votes": 30,
+    "approx_cost(for two people)": 900,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Bengaluru Coffee House",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.1/5",
+    "votes": 201,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "New Mangalore Lunch Home",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.3/5",
+    "votes": 7,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Coffee Bytes",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.1/5",
+    "votes": 6,
+    "approx_cost(for two people)": 100,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Parjanya Chat Zone",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.3/5",
+    "votes": 17,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Kwality Wall's Swirl's Happiness Station",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "2.9/5",
+    "votes": 25,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Soms Kitchen & Bakes",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "2.9/5",
+    "votes": 0,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Banashankari Nati Style",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "2.9/5",
+    "votes": 0,
+    "approx_cost(for two people)": 350,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Ruchi Maayaka",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.3/5",
+    "votes": 8,
+    "approx_cost(for two people)": 100,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Mohitesh Hut Roll",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.3/5",
+    "votes": 0,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Sri Basaveshwar Jolada Rotti Oota",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.4/5",
+    "votes": 0,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Roll Magic Fast Food",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.4/5",
+    "votes": 0,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Foodlieious Multi Cuisine",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.4/5",
+    "votes": 0,
+    "approx_cost(for two people)": 100,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Thanishka Nati And Karavali Style",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.1/5",
+    "votes": 0,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Swathi Cool Point",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "4.1/5",
+    "votes": 0,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Kaumudis Juoice",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.3/5",
+    "votes": 0,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Amma - Manae",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.1/5",
+    "votes": 0,
+    "approx_cost(for two people)": 400,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Sri Sai Tiffannies",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.3/5",
+    "votes": 0,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Hotel Andhra Speices",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "2.9/5",
+    "votes": 0,
+    "approx_cost(for two people)": 250,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Sri Murari Family Restaurant",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "2.9/5",
+    "votes": 0,
+    "approx_cost(for two people)": 250,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Aramane Donne Biriyani",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "2.9/5",
+    "votes": 0,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Darkolates",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.3/5",
+    "votes": 0,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Swaada Healthy Kitchen",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.3/5",
+    "votes": 0,
+    "approx_cost(for two people)": 350,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Gawdaru Mane Beriyani",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.3/5",
+    "votes": 0,
+    "approx_cost(for two people)": 300,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Melting Melodies",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.3/5",
+    "votes": 0,
+    "approx_cost(for two people)": 100,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "New Indraprasta",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.3/5",
+    "votes": 0,
+    "approx_cost(for two people)": 150,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Anna Kuteera",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "4.0/5",
+    "votes": 771,
+    "approx_cost(for two people)": 450,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Darbar",
+    "online_order": "No",
+    "book_table": "No",
+    "rate": "3.0/5",
+    "votes": 98,
+    "approx_cost(for two people)": 800,
+    "listed_in(type)": "Dining"
+  },
+  {
+    "name": "Vijayalakshmi",
+    "online_order": "Yes",
+    "book_table": "No",
+    "rate": "3.9/5",
+    "votes": 47,
+    "approx_cost(for two people)": 200,
+    "listed_in(type)": "Dining"
+  }
+]
