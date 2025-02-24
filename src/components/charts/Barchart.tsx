@@ -50,7 +50,7 @@ function generateBarchart(data: HealthData[], title: string) {
               data.SleepHours,
               data.HomocysteineLevel,
               data.CholesterolLevel,
-              data.CrpLevel,
+              data.CRPLevel,
             ];
 
             return returnData;
@@ -68,7 +68,7 @@ function generateBarchart(data: HealthData[], title: string) {
               data.SleepHours,
               data.HomocysteineLevel,
               data.CholesterolLevel,
-              data.CrpLevel,
+              data.CRPLevel,
             ];
             return returnData;
           }),

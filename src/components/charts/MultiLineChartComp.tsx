@@ -5,7 +5,7 @@ import { useEffect } from "react";
 function generateGraph(data: HealthData[], title: string) {
   let chartDom = document.getElementById("multi-line-chart");
   let myChart = echarts.init(chartDom);
-
+  console.log(title);
   // Filter data to only include people who have heart disease
   const filteredData = data.filter(
     (entry) => entry.HeartDiseaseStatus === "Yes"

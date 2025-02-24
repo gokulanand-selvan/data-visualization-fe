@@ -1,6 +1,6 @@
 import DataDescription from "../utils/DataDescription";
 import heartData from "../utils/data/heart_disease.json";
-import BarchartComp from "../components/charts/Barchart";
+
 import { HealthData } from "../types/data";
 import MultiLineChartComp from "../components/charts/MultiLineChartComp";
 
