@@ -28,6 +28,11 @@ export default function Heatmap({ data }: { data: HealthData[] }) {
         subtext: "Cholesterol, Blood Pressure, and Triglycerides",
         left: "center",
       },
+      toolbox: {
+        feature: {
+          saveAsImage: {},
+        },
+      },
       tooltip: {
         position: "top",
       },

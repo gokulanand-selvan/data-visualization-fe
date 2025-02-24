@@ -71,6 +71,11 @@ export default function ScatterPlot({ data }: { data: HealthData[] }) {
         type: "value",
         splitLine: { show: false },
       },
+      toolbox: {
+        feature: {
+          saveAsImage: {},
+        },
+      },
       series: [
         {
           name: selectedChart,

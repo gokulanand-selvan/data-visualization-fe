@@ -46,9 +46,15 @@ export default function RegressionPlot({ data }: { data: HealthData[] }) {
     });
 
     const option = {
+
       title: {
         text: `Probability of Heart Disease vs. ${xLabel}`,
         left: "center",
+      },
+      toolbox: {
+        feature: {
+          saveAsImage: {},
+        },
       },
       tooltip: {
         trigger: "axis",

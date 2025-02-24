@@ -23,6 +23,11 @@ const generateGraph = (chartDom: HTMLDivElement | null, data: HealthData[]) => {
       text: "Heart Disease Ratio",
       left: "center",
     },
+    toolbox: {
+      feature: {
+        saveAsImage: {},
+      },
+    },
     tooltip: {
       trigger: "item",
     },

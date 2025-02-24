@@ -48,6 +48,11 @@ const generateGraph = (chartDom: HTMLDivElement | null, data: HealthData[]) => {
     tooltip: {
       trigger: "item",
     },
+    toolbox: {
+      feature: {
+        saveAsImage: {},
+      },
+    },
     xAxis: {
       type: "category",
       data: ["Cholesterol"],
