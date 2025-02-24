@@ -8,13 +8,17 @@ function App() {
     "State wise data",
     "Startup Analysis",
   ];
+
   return (
     <div>
       <Header />
       <div className=" p-2 flex gap-4">
-        {SectorTitle.map((title) => (
-          <button className="text-lg border p-2 rounded-lg font-medium cursor-pointer hover:bg-gray-200 ">
-            {title}
+        {SectorTitle.map((title, ind) => (
+          <button
+            key={ind}
+            className="text-lg border p-2 rounded-lg font-medium cursor-pointer hover:bg-gray-200 "
+          >
+            {title }
           </button>
         ))}
       </div>
