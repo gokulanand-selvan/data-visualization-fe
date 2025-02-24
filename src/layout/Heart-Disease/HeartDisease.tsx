@@ -1,8 +1,13 @@
-import DataDescription from "../utils/DataDescription";
-import heartData from "../utils/data/heart_disease.json";
+import DataDescription from "../../utils/DataDescription";
+import heartData from "../../utils/data/heart_disease.json";
 
-import { HealthData } from "../types/data";
-import MultiLineChartComp from "../components/charts/MultiLineChartComp";
+import { HealthData } from "../../types/data";
+import MultiLineChartComp from "./charts/MultiLineChartComp";
+import Piechart from "./charts/Piechart";
+import BoxPlot from "./charts/BoxPlot";
+import HeatMap from "./charts/HeatMap";
+import ScatterPlot from "./charts/ScatterPlot";
+import RegressionPlot from "./charts/RegressionPlot";
 
 export default function HeartDisease() {
   const title = "Heart Disease Data:";
@@ -12,10 +17,15 @@ export default function HeartDisease() {
     <>
       <DataDescription title={title} description={description} />
       {/* <BarchartComp data={heartData as HealthData[]} title={"Heart Disease"} /> */}
+      <Piechart data={heartData as unknown as HealthData[]} />
       <MultiLineChartComp
         data={heartData as unknown as HealthData[]}
         title={"Heart Disease"}
       />
+      <HeatMap data={heartData as unknown as HealthData[]} />
+      <ScatterPlot data={heartData as unknown as HealthData[]} />
+      <BoxPlot data={heartData as unknown as HealthData[]} />
+      <RegressionPlot data={heartData as unknown as HealthData[]} />
     </>
   );
 }

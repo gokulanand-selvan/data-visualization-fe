@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-import HeartDisease from "./layout/HeartDisease";
+import HeartDisease from "./layout/Heart-Disease/HeartDisease";
 
 function App() {
   const SectorTitle = [
@@ -18,7 +18,7 @@ function App() {
             key={ind}
             className="text-lg border p-2 rounded-lg font-medium cursor-pointer hover:bg-gray-200 "
           >
-            {title }
+            {title}
           </button>
         ))}
       </div>

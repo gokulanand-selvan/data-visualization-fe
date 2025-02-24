@@ -1,5 +1,5 @@
 import * as echarts from "echarts";
-import { HealthData } from "../../types/data";
+import { HealthData } from "../../../types/data";
 import { useEffect } from "react";
 
 function generateGraph(data: HealthData[], title: string) {
@@ -8,7 +8,7 @@ function generateGraph(data: HealthData[], title: string) {
   console.log(title);
   // Filter data to only include people who have heart disease
   const filteredData = data.filter(
-    (entry) => entry.HeartDiseaseStatus === "Yes"
+    (entry) => entry.HeartDiseaseStatus === "Yes"||"No"
   );
 
   // Extract unique age groups from the filtered data
