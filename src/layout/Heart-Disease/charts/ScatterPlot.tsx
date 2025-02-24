@@ -90,7 +90,7 @@ export default function ScatterPlot({ data }: { data: HealthData[] }) {
   }, [data, selectedChart]);
 
   return (
-    <div>
+    <div className="px-10" >
       <select
         onChange={(e) => setSelectedChart(e.target.value)}
         value={selectedChart}
@@ -99,6 +99,7 @@ export default function ScatterPlot({ data }: { data: HealthData[] }) {
           marginBottom: "1rem",
           fontSize: "1rem",
           borderRadius: "5px",
+          border: "1px solid #ccc",
         }}
       >
         <option value="Cholesterol vs Triglyceride">

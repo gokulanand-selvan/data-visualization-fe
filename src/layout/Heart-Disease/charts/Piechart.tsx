@@ -28,7 +28,7 @@ const generateGraph = (chartDom: HTMLDivElement | null, data: HealthData[]) => {
     },
     legend: {
       orient: "vertical",
-      left: "left",
+      left: "90rem",
     },
     series: [
       {

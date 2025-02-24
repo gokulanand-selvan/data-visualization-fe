@@ -87,7 +87,7 @@ export default function RegressionPlot({ data }: { data: HealthData[] }) {
   }, [data, selectedFactor]);
 
   return (
-    <div>
+    <div className="px-10">
       <select
         onChange={(e) => setSelectedFactor(e.target.value)}
         value={selectedFactor}
@@ -96,6 +96,7 @@ export default function RegressionPlot({ data }: { data: HealthData[] }) {
           marginBottom: "1rem",
           fontSize: "1rem",
           borderRadius: "5px",
+          border: "1px solid #ccc",
         }}
       >
         <option value="Age">Age</option>
