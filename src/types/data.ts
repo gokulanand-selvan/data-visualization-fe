@@ -33,3 +33,17 @@ export type RestaurantData = {
     approx_cost_for_two_people: number;
     listed_in_type: string;
 };
+export type StateData = {
+    Name: string;
+    Type: string;
+    ISO: string;
+    Vehicle_Code: string;
+    Zone: string;
+    Capital: string;
+    Largest_City: string;
+    Statehood: string; // Can be converted to Date if needed
+    Population: number;
+    Area_sq_km: number;
+    Official_Languages: string;
+    Additional_Official_Languages: string;
+};

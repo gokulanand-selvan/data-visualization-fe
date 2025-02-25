@@ -2,15 +2,16 @@ import { useState } from "react";
 import Header from "./components/Header";
 import HeartDisease from "./layout/Heart-Disease/HeartDisease";
 import Zomato from "./layout/Zomato/Zomato";
+import StateWiseData from "./layout/StateWiseData/StateWiseData";
 
 function App() {
-  const [activeSector, setActiveSector] = useState(1);
+  const [activeSector, setActiveSector] = useState(0);
 
   const SectorTitle = [
-    "Heart Disease",
-    "Restaurant Data by Zomato",
-    "State wise data",
-    "Startup Analysis",
+    "Indian states data",
+    "Heart disease analysis",
+    "Restaurant data by Zomato",
+    // "Startup analysis",
   ];
 
   return (
@@ -30,8 +31,11 @@ function App() {
           </button>
         ))}
       </div>
-      {SectorTitle[activeSector] === "Heart Disease" && <HeartDisease />}
-      {SectorTitle[activeSector] === "Restaurant Data by Zomato" && <Zomato />}
+      {SectorTitle[activeSector] === "Heart disease analysis" && (
+        <HeartDisease />
+      )}
+      {SectorTitle[activeSector] === "Restaurant data by Zomato" && <Zomato />}
+      {SectorTitle[activeSector] === "Indian states data" && <StateWiseData />}
     </div>
   );
 }

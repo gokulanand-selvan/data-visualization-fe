@@ -69,8 +69,8 @@ export default function Piechart({ data }: { data: HealthData[] }) {
     <div
       ref={chartRef}
       style={{
-        width: "95vw",
-        height: "55vh",
+        width: "90%",
+        height: "500px",
         marginTop: "2rem",
         padding: "1rem",
       }}
