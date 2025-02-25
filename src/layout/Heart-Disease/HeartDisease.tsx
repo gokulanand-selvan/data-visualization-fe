@@ -1,6 +1,5 @@
 import DataDescription from "../../utils/DataDescription";
-import heartData from "../../utils/data/heart_disease.json";
-
+import heartData from "../../../data/heart_disease.json";
 import { HealthData } from "../../types/data";
 import MultiLineChartComp from "./charts/MultiLineChartComp";
 import Piechart from "./charts/Piechart";
